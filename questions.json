@@ -1,0 +1,242 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "What does the Greek root \"anti\" mean?",
+    "options": [
+      "For",
+      "With",
+      "Against",
+      "Before"
+    ],
+    "correct": 2,
+    "explanation": "The Greek root \"anti\" means \"against\" or \"opposite to\". For example, \"antifreeze\" is something that works against freezing."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "In the word \"autobiography\", what does \"auto\" mean?",
+    "options": [
+      "Car",
+      "Self",
+      "Life",
+      "Write"
+    ],
+    "correct": 1,
+    "explanation": "In \"autobiography\", \"auto\" means \"self\". An autobiography is a story someone writes about their own life."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Which word uses the Greek root \"bio\" meaning \"life\"?",
+    "options": [
+      "Biology",
+      "Bicycle",
+      "Bilingual",
+      "Binoculars"
+    ],
+    "correct": 0,
+    "explanation": "\"Biology\" uses the root \"bio\", which means \"life\". Biology is the study of living things."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "The Greek root \"geo\" means:",
+    "options": [
+      "Water",
+      "Air",
+      "Fire",
+      "Earth"
+    ],
+    "correct": 3,
+    "explanation": "\"Geo\" is a Greek root that means \"earth\". For example, \"geography\" is the study of the Earth."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "What does the Greek root \"graph\" mean in the word \"photograph\"?",
+    "options": [
+      "Light",
+      "Write or draw",
+      "Colour",
+      "Picture"
+    ],
+    "correct": 1,
+    "explanation": "In \"photograph\", \"graph\" means \"write or draw\". A photograph is a picture drawn with light."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "What does the Latin root \"circ\" mean?",
+    "options": [
+      "Square",
+      "Triangle",
+      "Circle",
+      "Line"
+    ],
+    "correct": 2,
+    "explanation": "The Latin root \"circ\" means \"circle\" or \"go around\". For example, a circus ring is circular."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "The Latin root \"dict\" means:",
+    "options": [
+      "Write",
+      "Say",
+      "Read",
+      "Listen"
+    ],
+    "correct": 1,
+    "explanation": "\"Dict\" is a Latin root that means \"say\" or \"tell\". A dictionary tells us what words mean."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Which word uses the Latin root \"doc\" meaning \"teach\"?",
+    "options": [
+      "Doctor",
+      "Dolphin",
+      "Dollar",
+      "Donkey"
+    ],
+    "correct": 0,
+    "explanation": "\"Doctor\" uses the root \"doc\", which means \"teach\". Originally, a doctor was someone who could teach about medicine."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "The Latin root \"fund\" means:",
+    "options": [
+      "Top",
+      "Middle",
+      "Side",
+      "Bottom"
+    ],
+    "correct": 3,
+    "explanation": "\"Fund\" is a Latin root that means \"bottom\" or \"base\". Something fundamental is at the base or bottom of what we need to know."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "What does the Latin root \"jur\" relate to?",
+    "options": [
+      "Water",
+      "Fire",
+      "Law",
+      "Air"
+    ],
+    "correct": 2,
+    "explanation": "The root \"jur\" relates to \"law\" or \"oath\". A jury helps make decisions in a court of law."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Which Greek root does the word \"automatic\" contain?",
+    "options": [
+      "Auto",
+      "Matic",
+      "Tom",
+      "Tic"
+    ],
+    "correct": 0,
+    "explanation": "\"Automatic\" contains the root \"auto\", which means \"self\". Something automatic works by itself."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Which of these is not related to the Greek root \"bio\"?",
+    "options": [
+      "Biography",
+      "Biology",
+      "Bicycle",
+      "Biodegradable"
+    ],
+    "correct": 2,
+    "explanation": "\"Bicycle\" is not related to \"bio\". It comes from \"bi\" (two) and \"cycle\" (wheel). The other words all relate to life."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "In \"geography\", what does \"geo\" mean?",
+    "options": [
+      "Map",
+      "Earth",
+      "Study",
+      "Graph"
+    ],
+    "correct": 1,
+    "explanation": "In \"geography\", \"geo\" means \"earth\". Geography is the study of the Earth and its features."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "The Greek root \"graph\" is found in which word?",
+    "options": [
+      "Grapefruit",
+      "Grateful",
+      "Graphite",
+      "Grasp"
+    ],
+    "correct": 2,
+    "explanation": "\"Graphite\" contains the root \"graph\", meaning \"write\". Graphite is a material used for writing, like in pencils."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "What does \"autograph\" mean based on its Greek roots?",
+    "options": [
+      "Self-moving",
+      "Self-writing",
+      "Life-writing",
+      "Earth-writing"
+    ],
+    "correct": 1,
+    "explanation": "\"Autograph\" combines \"auto\" (self) and \"graph\" (write). It's a signature someone writes themselves."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Which word contains the Latin root \"circ\"?",
+    "options": [
+      "Circumstance",
+      "Cistern",
+      "Citizen",
+      "Cinnamon"
+    ],
+    "correct": 0,
+    "explanation": "\"Circumstance\" contains the root \"circ\", meaning \"around\". It refers to the conditions around a situation."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "In \"dictate\", what does the root \"dict\" mean?",
+    "options": [
+      "Write",
+      "Say",
+      "Read",
+      "Listen"
+    ],
+    "correct": 1,
+    "explanation": "In \"dictate\", \"dict\" means \"say\". To dictate is to say words for someone else to write down."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which of these is NOT related to the Latin root \"doc\"?",
+    "options": [
+      "Doctor",
+      "Doctrine",
+      "Document",
+      "Donation"
+    ],
+    "correct": 3,
+    "explanation": "\"Donation\" is not related to \"doc\" (teach). The other words all relate to teaching or learning."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "What does \"circumference\" mean based on its Latin root?",
+    "options": [
+      "Center point",
+      "Going around",
+      "Middle area",
+      "Straight line"
+    ],
+    "correct": 1,
+    "explanation": "\"Circumference\" uses \"circ\" (circle/around). It means the distance around a circular object."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "In \"anticlockwise\", what does \"anti\" mean?",
+    "options": [
+      "Before",
+      "After",
+      "With",
+      "Against"
+    ],
+    "correct": 3,
+    "explanation": "In \"anticlockwise\", \"anti\" means \"against\" or \"opposite to\". It's the opposite direction to clockwise."
+  }
+]
